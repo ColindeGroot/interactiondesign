@@ -8,7 +8,7 @@
 ### stories staan in volgorde in de backlog.
 
 ---
-##Vertaling visueel ontwerp
+## Vertaling visueel ontwerp
 [Reposetory met code]( https://github.com/ScottZ2004/F2M6Wordpress)
 [Gemaakte website](https://31658.hosts1.ma-cloud.nl/StedelijkMuseum/)
 
