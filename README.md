@@ -8,6 +8,7 @@
 ### Visueel ontwerp = NVVN opdrachtgever
 ### productonderzoek = Make it Rain
 ### moodboard = Transformers community
+### styletile = ecommerce - Stedelijk museum
 ### persona = NVVN opdrachtgever
 
 
